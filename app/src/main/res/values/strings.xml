@@ -19,6 +19,7 @@
 
     <!-- Main Activity strings -->
     <string name="timetable">TimeTable</string>
+    <string name="website">www.fluidalgorithms.com</string>
     <string name="fluid_algorithms_contact">info@fluidalgorithms.com</string>
     <string name="seven_days_of_the_week">7 Days of the Week</string>
     <string name="subject">Subject</string>
