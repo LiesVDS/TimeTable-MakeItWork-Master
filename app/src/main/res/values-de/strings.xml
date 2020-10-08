@@ -1,5 +1,5 @@
 <resources>
-
+    <!--Add German Here. -->
     <string name="app_name">Zeitplan</string>
     <string name="navigation_drawer_open">Navigationsschublade öffnen</string>
     <string name="navigation_drawer_close">Navigationsschublade schließen</string>
