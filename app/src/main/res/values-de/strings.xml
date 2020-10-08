@@ -5,16 +5,16 @@
     <string name="navigation_drawer_close">Navigationsschublade schließen</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_desc">Navigationsheader</string>
-    <string name="action_settings">die Einstellungen</string>
+    <string name="action_settings">Einstellungen</string>
 
 
-    <string name="monday">Montag</string>
-    <string name="tuesday">Dienstag</string>
-    <string name="wednesday">Mittwoch</string>
-    <string name="thursday">Donnerstag</string>
-    <string name="friday">Freitag</string>
-    <string name="saturday">Samstag</string>
-    <string name="sunday">Sonntag</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Dien</string>
+    <string name="wednesday">Mit</string>
+    <string name="thursday">Don</string>
+    <string name="friday">Fre</string>
+    <string name="saturday">Sam</string>
+    <string name="sunday">Son</string>
     <string name="select_snackbar">Bitte wählen Sie einen Artikel aus.</string>
     <string name="selected">Ausgewählt</string>
 
@@ -23,7 +23,7 @@
     <string name="website">www.fluidalgorithms.com</string>
     <string name="fluid_algorithms_contact">info@fluidalgorithms.com</string>
     <string name="seven_days_of_the_week">7 Tage die Woche</string>
-    <string name="subject">Gegenstand</string>
+    <string name="subject">Subjekt</string>
     <string name="field_error">Feld darf nicht leer sein!</string>
     <string name="time_error">Zeitfeld darf nicht leer sein!</string>
     <string name="week">Woche</string>
@@ -32,12 +32,12 @@
     <string name="school_website">Schulwebsite</string>
     <string name="school_website_snackbar">Bitte legen Sie die URL Ihrer Schulwebsite in den Einstellungen fest.</string>
 
-    <string name="add_subject">Betreff hinzufügen</string>
-    <string name="edit_subject">Betreff bearbeiten</string>
+    <string name="add_subject">Subjekt hinzufügen</string>
+    <string name="edit_subject">Subjekt bearbeiten</string>
     <string name="contact">Kontakt</string>
     <string name="room">Zimmer</string>
     <string name="time">Zeit</string>
-    <string name="save">speichern</string>
+    <string name="save">aufbewahren</string>
     <string name="cancel">Stornieren</string>
     <string name="time_to_dialog">Zu:</string>
     <string name="time_from_dialog">Von:</string>
@@ -66,29 +66,29 @@
 
 
     <string name="notes">Anmerkungen</string>
-    <string name="title_dialog">Titel:</string>
+    <string name="title_dialog">Subjekt:</string>
     <string name="add_note">Notiz hinzufügen</string>
     <string name="edit_note">Notiz bearbeiten</string>
     <string name="title_error">Titelfeld darf nicht leer sein!</string>
     <string name="title">Titel</string>
-    <string name="saved">Gerettet</string>
+    <string name="saved">Bewahrt</string>
 
 
     <string name="contacts">Kontakte</string>
     <string name="add_contact">Kontakt hinzufügen</string>
     <string name="edit_contact">Kontakt bearbeiten</string>
     <string name="name_dialog">Name:</string>
-    <string name="post_dialog">Post:</string>
+    <string name="post_dialog">Titel:</string>
     <string name="phonenumber_dialog">Telefon:</string>
     <string name="email_dialog">Email:</string>
     <string name="name">Name</string>
     <string name="phone_number">Telefonnummer</string>
-    <string name="post">Post</string>
+    <string name="post">Titel</string>
     <string name="email">Email</string>
 
 
-    <string name="events">Veranstaltungen</string>
-    <string name="add_event">Ereignis hinzufügen</string>
+    <string name="events">Events</string>
+    <string name="add_event">Event hinzufügen</string>
     <string name="date_dialog">Datum:</string>
     <string name="time_dialog">Zeit:</string>
 
