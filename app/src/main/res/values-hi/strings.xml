@@ -1,6 +1,6 @@
 <resources>
     <!--Add Hindi Here. -->
-    <string name="app_name">समय सारणी</string>
+    <string name="app_name">टाइम टेबल ऐप</string>
     <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
     <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
     <string name="nav_header_title">एंड्रॉयड स्टूडियो</string>
@@ -52,7 +52,7 @@
 
     <!-- Tasks Activity strings -->
     <string name="title_activity_tasks">कार्य गतिविधि</string>
-    <string name="tasks">कार्य</string>
+    <string name="tasks">करने के लिए</string>
     <string name="select_date">तिथि चुनें</string>
     <string name="deadline_dialog">अंतिम समय:</string>
     <string name="deadline">अंतिम समय</string>
@@ -87,7 +87,7 @@
     <string name="email">ईमेल</string>
 
     <!-- Events Activity strings -->
-    <string name="events">आयोजन</string>
+    <string name="events">कार्यक्रम</string>
     <string name="add_event">ईवेंट जोड़ें</string>
     <string name="date_dialog">तारीख:</string>
     <string name="time_dialog">समय:</string>
