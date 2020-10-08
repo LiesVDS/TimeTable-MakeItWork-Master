@@ -1,6 +1,6 @@
 <resources>
     <!--Add Hindi Here. -->
-    <string name="app_name">टाइम टेबल ऐप</string>
+    <string name="app_name">टाइम टेबल</string>
     <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
     <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
     <string name="nav_header_title">एंड्रॉयड स्टूडियो</string>
