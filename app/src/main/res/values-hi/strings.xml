@@ -1,36 +1,36 @@
 <resources>
     <!--Add Hindi Here. -->
-    <string name="app_name">TimeTable</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">समय सारणी</string>
+    <string name="navigation_drawer_open">नेविगेशन दराज खोलें</string>
+    <string name="navigation_drawer_close">नेविगेशन ड्रॉअर बंद करें</string>
+    <string name="nav_header_title">एंड्रॉयड स्टूडियो</string>
+    <string name="nav_header_desc">नेविगेशन हेडर</string>
+    <string name="action_settings">समायोजन </string>
 
     <!-- Fragments strings -->
-    <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
-    <string name="friday">Friday</string>
-    <string name="saturday">Saturday</string>
-    <string name="sunday">Sunday</string>
-    <string name="select_snackbar">Please, select one item.</string>
-    <string name="selected">Selected</string>
+    <string name="monday">सोम</string>
+    <string name="tuesday">मंगल</string>
+    <string name="wednesday">बुध</string>
+    <string name="thursday">गुरू</string>
+    <string name="friday">शुक्र</string>
+    <string name="saturday">शनि</string>
+    <string name="sunday">रवि</string>
+    <string name="select_snackbar">कृपया, एक आइटम का चयन करें।</string>
+    <string name="selected">चुन लिया</string>
 
     <!-- Main Activity strings -->
-    <string name="timetable">TimeTable</string>
+    <string name="timetable">समय सारणी</string>
     <string name="website">www.fluidalgorithms.com</string>
     <string name="fluid_algorithms_contact">info@fluidalgorithms.com</string>
-    <string name="seven_days_of_the_week">7 Days of the Week</string>
-    <string name="subject">Subject</string>
-    <string name="field_error">field can not be empty!</string>
-    <string name="time_error">Time field can not be empty!</string>
-    <string name="week">Week</string>
-    <string name="delete">Delete</string>
-    <string name="edit">Edit</string>
-    <string name="school_website">School website</string>
-    <string name="school_website_snackbar">Please, set URL of your school website in settings.</string>
+    <string name="seven_days_of_the_week">सप्ताह के 7 दिन</string>
+    <string name="subject">विषय</string>
+    <string name="field_error">मैदान खाली नहीं हो सकता!</string>
+    <string name="time_error">समय क्षेत्र खाली नहीं हो सकता!</string>
+    <string name="week">सप्ताह</string>
+    <string name="delete">हटाएं</string>
+    <string name="edit">संपादित करें</string>
+    <string name="school_website">स्कूल की वेबसाइट</string>
+    <string name="school_website_snackbar">कृपया, सेटिंग में अपने स्कूल की वेबसाइट का URL सेट करें।</string>
 
     <string name="add_subject">Add subject</string>
     <string name="edit_subject">Edit subject</string>
@@ -78,7 +78,7 @@
     <string name="add_contact">Add contact</string>
     <string name="edit_contact">Edit contact</string>
     <string name="name_dialog">Name:</string>
-    <string name="post_dialog">Post:</string>
+    <string name="post_dialog">Title:</string>
     <string name="phonenumber_dialog">Phone:</string>
     <string name="email_dialog">Email:</string>
     <string name="name">Name</string>
