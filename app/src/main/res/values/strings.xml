@@ -77,7 +77,7 @@
     <string name="add_contact">Add contact</string>
     <string name="edit_contact">Edit contact</string>
     <string name="name_dialog">Name:</string>
-    <string name="post_dialog">Post:</string>
+    <string name="post_dialog">Position:</string>
     <string name="phonenumber_dialog">Phone:</string>
     <string name="email_dialog">Email:</string>
     <string name="name">Name</string>
