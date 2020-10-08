@@ -7,13 +7,13 @@
     <string name="action_settings">Settings</string>
 
     <!-- Fragments strings -->
-    <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
-    <string name="friday">Friday</string>
-    <string name="saturday">Saturday</string>
-    <string name="sunday">Sunday</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+    <string name="sunday">Sun</string>
     <string name="select_snackbar">Please, select one item.</string>
     <string name="selected">Selected</string>
 
@@ -77,7 +77,7 @@
     <string name="add_contact">Add contact</string>
     <string name="edit_contact">Edit contact</string>
     <string name="name_dialog">Name:</string>
-    <string name="post_dialog">Post:</string>
+    <string name="post_dialog">Position:</string>
     <string name="phonenumber_dialog">Phone:</string>
     <string name="email_dialog">Email:</string>
     <string name="name">Name</string>

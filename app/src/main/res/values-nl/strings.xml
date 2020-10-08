@@ -1,106 +1,106 @@
 <resources>
     <!--Add Dutch Here. -->
     <string name="app_name">TimeTable</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigatie</string>
+    <string name="navigation_drawer_close">Sluit navigatie</string>
     <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Navigation titel</string>
+    <string name="action_settings">Instellingen</string>
 
     <!-- Fragments strings -->
-    <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
-    <string name="friday">Friday</string>
-    <string name="saturday">Saturday</string>
-    <string name="sunday">Sunday</string>
-    <string name="select_snackbar">Please, select one item.</string>
-    <string name="selected">Selected</string>
+    <string name="monday">Maa</string>
+    <string name="tuesday">Din</string>
+    <string name="wednesday">Woe</string>
+    <string name="thursday">Don</string>
+    <string name="friday">Vri</string>
+    <string name="saturday">Zat</string>
+    <string name="sunday">Zon</string>
+    <string name="select_snackbar">Selecteer een item.</string>
+    <string name="selected">Geselecteerd</string>
 
     <!-- Main Activity strings -->
     <string name="timetable">TimeTable</string>
     <string name="website">www.fluidalgorithms.com</string>
     <string name="fluid_algorithms_contact">info@fluidalgorithms.com</string>
-    <string name="seven_days_of_the_week">7 Days of the Week</string>
-    <string name="subject">Subject</string>
-    <string name="field_error">field can not be empty!</string>
-    <string name="time_error">Time field can not be empty!</string>
+    <string name="seven_days_of_the_week">7-dagen week</string>
+    <string name="subject">Onderwerp</string>
+    <string name="field_error">Dit veld kan niet leeg zijn!</string>
+    <string name="time_error">Stel een tijd in!</string>
     <string name="week">Week</string>
-    <string name="delete">Delete</string>
-    <string name="edit">Edit</string>
+    <string name="delete">Verwijder</string>
+    <string name="edit">Bewerk</string>
     <string name="school_website">School website</string>
-    <string name="school_website_snackbar">Please, set URL of your school website in settings.</string>
+    <string name="school_website_snackbar">Voeg de link naar je school website toe onder instellingen.</string>
 
-    <string name="add_subject">Add subject</string>
-    <string name="edit_subject">Edit subject</string>
-    <string name="contact">Contact</string>
-    <string name="room">Room</string>
-    <string name="time">Time</string>
-    <string name="save">Save</string>
-    <string name="cancel">Cancel</string>
-    <string name="time_to_dialog">To:</string>
-    <string name="time_from_dialog">From:</string>
-    <string name="subject_dialog">Subject:</string>
+    <string name="add_subject">Voeg een onderwerp toe</string>
+    <string name="edit_subject">Bewerk een onderzerp</string>
+    <string name="contact">Contacten</string>
+    <string name="room">Lokaal</string>
+    <string name="time">Tijd</string>
+    <string name="save">Bewaar</string>
+    <string name="cancel">Annuleer</string>
+    <string name="time_to_dialog">Van:</string>
+    <string name="time_from_dialog">Tot:</string>
+    <string name="subject_dialog">Onderwerp:</string>
     <string name="contact_dialog">Contact:</string>
-    <string name="room_dialog">Room:</string>
-    <string name="select_time">Select time</string>
-    <string name="select_color">Select color</string>
-    <string name="choose_time">Choose time</string>
-    <string name="choose_date">Choose date</string>
-    <string name="choose_color">Choose color</string>
+    <string name="room_dialog">Lokaal:</string>
+    <string name="select_time">Selecteer tijd</string>
+    <string name="select_color">Selecteer een kleur</string>
+    <string name="choose_time">Kies tijd</string>
+    <string name="choose_date">Kies datum</string>
+    <string name="choose_color">Kies kleur</string>
 
     <!-- Tasks Activity strings -->
-    <string name="title_activity_tasks">TasksActivity</string>
-    <string name="tasks">Tasks</string>
-    <string name="select_date">Select date</string>
+    <string name="title_activity_tasks">Taken</string>
+    <string name="tasks">Taken</string>
+    <string name="select_date">Selecteer een dag</string>
     <string name="deadline_dialog">Deadline:</string>
     <string name="deadline">Deadline</string>
-    <string name="description_dialog">Description:</string>
-    <string name="description">Description</string>
-    <string name="date_error">Date field can not be empty!</string>
-    <string name="edit_task">Edit task</string>
-    <string name="add_task">Add task</string>
-    <string name="deadline_snackbar">"Deadline field can not be empty!</string>
-    <string name="date">Date</string>
+    <string name="description_dialog">Beschrijving:</string>
+    <string name="description">Beschrijving</string>
+    <string name="date_error">Stel een datum in</string>
+    <string name="edit_task">Bewerk taak</string>
+    <string name="add_task">Voeg een taak toe</string>
+    <string name="deadline_snackbar">"Voeg een deadline toe.</string>
+    <string name="date">Datum</string>
 
     <!-- Notes Activity strings -->
-    <string name="notes">Notes</string>
-    <string name="title_dialog">Title:</string>
-    <string name="add_note">Add note</string>
-    <string name="edit_note">Edit note</string>
-    <string name="title_error">Title field can not be empty!</string>
-    <string name="title">Title</string>
-    <string name="saved">Saved</string>
+    <string name="notes">Notities</string>
+    <string name="title_dialog">Titel:</string>
+    <string name="add_note">Voeg notitie toe</string>
+    <string name="edit_note">Bewerk notitie</string>
+    <string name="title_error">Je moet een titel ingeven!</string>
+    <string name="title">Titel</string>
+    <string name="saved">bewaard</string>
 
     <!-- Contacts Activity strings -->
-    <string name="contacts">Contacts</string>
-    <string name="add_contact">Add contact</string>
-    <string name="edit_contact">Edit contact</string>
-    <string name="name_dialog">Name:</string>
-    <string name="post_dialog">Post:</string>
-    <string name="phonenumber_dialog">Phone:</string>
+    <string name="contacts">Contacten</string>
+    <string name="add_contact">Voeg contact toe</string>
+    <string name="edit_contact">Bewerk contact</string>
+    <string name="name_dialog">Naam:</string>
+    <string name="post_dialog">Titel:</string>
+    <string name="phonenumber_dialog">Telefoon:</string>
     <string name="email_dialog">Email:</string>
-    <string name="name">Name</string>
-    <string name="phone_number">Phone number</string>
-    <string name="post">Post</string>
+    <string name="name">Naam</string>
+    <string name="phone_number">Telefoon</string>
+    <string name="post">Titel</string>
     <string name="email">Email</string>
 
     <!-- Events Activity strings -->
-    <string name="events">Events</string>
-    <string name="add_event">Add event</string>
-    <string name="date_dialog">Date:</string>
-    <string name="time_dialog">Time:</string>
+    <string name="events">Evenement</string>
+    <string name="add_event">Voeg evenement toe</string>
+    <string name="date_dialog">Datum:</string>
+    <string name="time_dialog">Tijd:</string>
 
     <!-- Settings Activity strings -->
-    <string name="sevendays_setting">Enable 7 Days of the Week</string>
-    <string name="school_website_setting">Change school website</string>
-    <string name="school_website_setting_summary">Change URL of your school website</string>
+    <string name="sevendays_setting">Switch naar 7 dagen week</string>
+    <string name="school_website_setting">Verander je school website</string>
+    <string name="school_website_setting_summary">Verander de URL van je school website</string>
 
     <!-- Notification -->
-    <string name="notification_title">Today\'s lessons</string>
-    <string name="do_not_have_lessons">You do not have lessons!</string>
-    <string name="easy">Your school work made easy</string>
+    <string name="notification_title">Les voor vandaag</string>
+    <string name="do_not_have_lessons">Je hebt geen les vandaag!</string>
+    <string name="easy">Jouw schoolwerk georganiseerd!</string>
 
 
 </resources>
