@@ -1,22 +1,22 @@
 <resources>
     <!--Add Spanish Here. -->
-    <string name="app_name">TimeTable</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Horario</string>
+    <string name="navigation_drawer_open">Abrir navegación</string>
+    <string name="navigation_drawer_close">Cerrar navegación</string>
     <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Título</string>
+    <string name="action_settings">Configuración</string>
 
     <!-- Fragments strings -->
-    <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
-    <string name="friday">Friday</string>
-    <string name="saturday">Saturday</string>
-    <string name="sunday">Sunday</string>
-    <string name="select_snackbar">Please, select one item.</string>
-    <string name="selected">Selected</string>
+    <string name="monday">Lun</string>
+    <string name="tuesday">Mar</string>
+    <string name="wednesday">Mie</string>
+    <string name="thursday">Jue</string>
+    <string name="friday">Vie</string>
+    <string name="saturday">Sáb</string>
+    <string name="sunday">Dom</string>
+    <string name="select_snackbar">Porfavor, seleccione algo</string>
+    <string name="selected">Seleccionado</string>
 
     <!-- Main Activity strings -->
     <string name="timetable">TimeTable</string>
