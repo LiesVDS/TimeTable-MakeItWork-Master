@@ -1,106 +1,106 @@
 <resources>
     <!--Add French Here. -->
-    <string name="app_name">TimeTable</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Calendrier</string>
+    <string name="navigation_drawer_open">Ouvrir la navigation</string>
+    <string name="navigation_drawer_close">Fermer la navigation</string>
     <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Entête de la navigation</string>
+    <string name="action_settings">Configurations</string>
 
     <!-- Fragments strings -->
-    <string name="monday">Monday</string>
-    <string name="tuesday">Tuesday</string>
-    <string name="wednesday">Wednesday</string>
-    <string name="thursday">Thursday</string>
-    <string name="friday">Friday</string>
-    <string name="saturday">Saturday</string>
-    <string name="sunday">Sunday</string>
-    <string name="select_snackbar">Please, select one item.</string>
-    <string name="selected">Selected</string>
+    <string name="monday">Lun</string>
+    <string name="tuesday">Mar</string>
+    <string name="wednesday">Mer</string>
+    <string name="thursday">Jeu</string>
+    <string name="friday">Ven</string>
+    <string name="saturday">Sam</string>
+    <string name="sunday">Dim</string>
+    <string name="select_snackbar">Veuillez choisir un élément.</string>
+    <string name="selected">Choisi</string>
 
     <!-- Main Activity strings -->
     <string name="timetable">TimeTable</string>
     <string name="website">www.fluidalgorithms.com</string>
     <string name="fluid_algorithms_contact">info@fluidalgorithms.com</string>
-    <string name="seven_days_of_the_week">7 Days of the Week</string>
-    <string name="subject">Subject</string>
-    <string name="field_error">field can not be empty!</string>
-    <string name="time_error">Time field can not be empty!</string>
-    <string name="week">Week</string>
-    <string name="delete">Delete</string>
-    <string name="edit">Edit</string>
-    <string name="school_website">School website</string>
-    <string name="school_website_snackbar">Please, set URL of your school website in settings.</string>
+    <string name="seven_days_of_the_week">7 Jours de la semaine</string>
+    <string name="subject">Matière</string>
+    <string name="field_error">Le champ ne peut pas être vide!</string>
+    <string name="time_error">L\'heure ne peut pas être vide!</string>
+    <string name="week">Semaine</string>
+    <string name="delete">Annuler</string>
+    <string name="edit">Modifier</string>
+    <string name="school_website">Site web de l\'école</string>
+    <string name="school_website_snackbar">Veuillez définir l\'URL du site Web de votre école dans les configrations</string>
 
-    <string name="add_subject">Add subject</string>
-    <string name="edit_subject">Edit subject</string>
-    <string name="contact">Contact</string>
-    <string name="room">Room</string>
-    <string name="time">Time</string>
-    <string name="save">Save</string>
-    <string name="cancel">Cancel</string>
-    <string name="time_to_dialog">To:</string>
-    <string name="time_from_dialog">From:</string>
-    <string name="subject_dialog">Subject:</string>
+    <string name="add_subject">Ajouter matière</string>
+    <string name="edit_subject">Modifier matière</string>
+    <string name="contact">Contacts</string>
+    <string name="room">Local</string>
+    <string name="time">Heure</string>
+    <string name="save">Garder</string>
+    <string name="cancel">Annuler</string>
+    <string name="time_to_dialog">à:</string>
+    <string name="time_from_dialog">de:</string>
+    <string name="subject_dialog">Matière:</string>
     <string name="contact_dialog">Contact:</string>
-    <string name="room_dialog">Room:</string>
-    <string name="select_time">Select time</string>
-    <string name="select_color">Select color</string>
-    <string name="choose_time">Choose time</string>
-    <string name="choose_date">Choose date</string>
-    <string name="choose_color">Choose color</string>
+    <string name="room_dialog">Local:</string>
+    <string name="select_time">Sélectionner l\'heure</string>
+    <string name="select_color">Sélectionner couleur</string>
+    <string name="choose_time">Choisir l\'heure</string>
+    <string name="choose_date">Choisir jour</string>
+    <string name="choose_color">Choisir colour</string>
 
     <!-- Tasks Activity strings -->
-    <string name="title_activity_tasks">TasksActivity</string>
-    <string name="tasks">Tasks</string>
-    <string name="select_date">Select date</string>
-    <string name="deadline_dialog">Deadline:</string>
-    <string name="deadline">Deadline</string>
+    <string name="title_activity_tasks">Tâches</string>
+    <string name="tasks">Tâches</string>
+    <string name="select_date">Sélectionner jour</string>
+    <string name="deadline_dialog">Date limite:</string>
+    <string name="deadline">Date limite</string>
     <string name="description_dialog">Description:</string>
     <string name="description">Description</string>
-    <string name="date_error">Date field can not be empty!</string>
-    <string name="edit_task">Edit task</string>
-    <string name="add_task">Add task</string>
-    <string name="deadline_snackbar">"Deadline field can not be empty!</string>
+    <string name="date_error">Le jour ne peut pas être vide!</string>
+    <string name="edit_task">Modifier tâche</string>
+    <string name="add_task">Ajouter tâche</string>
+    <string name="deadline_snackbar">Le date limite ne peut pas être vide!</string>
     <string name="date">Date</string>
 
     <!-- Notes Activity strings -->
     <string name="notes">Notes</string>
-    <string name="title_dialog">Title:</string>
-    <string name="add_note">Add note</string>
-    <string name="edit_note">Edit note</string>
-    <string name="title_error">Title field can not be empty!</string>
-    <string name="title">Title</string>
-    <string name="saved">Saved</string>
+    <string name="title_dialog">Sujet:</string>
+    <string name="add_note">Ajouter note</string>
+    <string name="edit_note">Modifier note</string>
+    <string name="title_error">Le sujet ne peut pas être vide!</string>
+    <string name="title">Sujet</string>
+    <string name="saved">Gardé</string>
 
     <!-- Contacts Activity strings -->
     <string name="contacts">Contacts</string>
-    <string name="add_contact">Add contact</string>
-    <string name="edit_contact">Edit contact</string>
-    <string name="name_dialog">Name:</string>
-    <string name="post_dialog">Post:</string>
-    <string name="phonenumber_dialog">Phone:</string>
-    <string name="email_dialog">Email:</string>
-    <string name="name">Name</string>
-    <string name="phone_number">Phone number</string>
-    <string name="post">Post</string>
-    <string name="email">Email</string>
+    <string name="add_contact">Ajouter contact</string>
+    <string name="edit_contact">Modifier contact</string>
+    <string name="name_dialog">Nombre:</string>
+    <string name="post_dialog">Position:</string>
+    <string name="phonenumber_dialog">Téléphone:</string>
+    <string name="email_dialog">Adresse email:</string>
+    <string name="name">Nom</string>
+    <string name="phone_number">Numéro de téléphone</string>
+    <string name="post">Position</string>
+    <string name="email">Adresse email</string>
 
     <!-- Events Activity strings -->
-    <string name="events">Events</string>
-    <string name="add_event">Add event</string>
+    <string name="events">Evénement</string>
+    <string name="add_event">Ajouter événement</string>
     <string name="date_dialog">Date:</string>
-    <string name="time_dialog">Time:</string>
+    <string name="time_dialog">Heure:</string>
 
     <!-- Settings Activity strings -->
-    <string name="sevendays_setting">Enable 7 Days of the Week</string>
-    <string name="school_website_setting">Change school website</string>
-    <string name="school_website_setting_summary">Change URL of your school website</string>
+    <string name="sevendays_setting">Activer 7 jours de la semaine</string>
+    <string name="school_website_setting">Changer le site Web de l\'école</string>
+    <string name="school_website_setting_summary">Changer l\'URL du site Web de l\'école</string>
 
     <!-- Notification -->
-    <string name="notification_title">Today\'s lessons</string>
-    <string name="do_not_have_lessons">You do not have lessons!</string>
-    <string name="easy">Your school work made easy</string>
+    <string name="notification_title">Matières d\'aujourd\'hui</string>
+    <string name="do_not_have_lessons">Vous n\'avez pas de cours aujourd\'hui!</string>
+    <string name="easy">Votre travail scolaire simplifié!</string>
 
 
 </resources>
