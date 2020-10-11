@@ -101,6 +101,8 @@
     <string name="notification_title">Der heutige Unterricht</string>
     <string name="do_not_have_lessons">Du hast keinen Unterricht!</string>
     <string name="easy">Ihre Schularbeiten leicht gemacht</string>
+    <string name="how_to_use">How to use this app</string>
+    <string name="about_us">about us</string>
 
 
 </resources>

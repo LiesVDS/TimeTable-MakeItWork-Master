@@ -203,6 +203,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
                 Intent settings = new Intent(MainActivity.this, SettingsActivity.class);
                 startActivity(settings);
                 return true;
+            case R.id.about_us:
+                Intent aboutus = new Intent(MainActivity.this, AboutUsActivity.class);
+                startActivity(aboutus);
+                return true;
+            case R.id.how_to_use:
+                Intent howtouse = new Intent(MainActivity.this, HowToUseActivity.class);
+                startActivity(howtouse);
+                return true;
             default:
                 DrawerLayout drawer = findViewById(R.id.drawer_layout);
                 drawer.closeDrawer(GravityCompat.START);

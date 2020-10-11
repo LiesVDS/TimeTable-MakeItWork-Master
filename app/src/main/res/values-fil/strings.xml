@@ -101,5 +101,7 @@
 <string name="notification_title">Aralin ngayon</string>
 <string name="do_not_have_lessons">Wala kang mga aralin!</string>
 <string name="easy">Ang iyong gawain sa paaralan ay ginawang madali</string>
+    <string name="how_to_use">How to use this app</string>
+    <string name="about_us">about us</string>
 
 </resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.AboutUsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/full_logo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/fluid_algorithms_logo"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/fab_margin"/>
+
+        <TextView
+            android:id="@+id/about_us_header"
+            android:layout_margin="@dimen/fab_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about_fluid_algorithms"
+            style="@style/activity_title"/>
+
+        <TextView
+            android:id="@+id/about_us_text"
+            android:layout_margin="@dimen/fab_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/about_fluid_algorithms_text"
+            style="@style/activity_text" />
+
+        <TextView
+            android:id="@+id/contact_us_header"
+            android:layout_margin="@dimen/fab_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/contact_fluid_algorithms"
+            style="@style/activity_title"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            >
+            <ImageView
+                android:id="@+id/item_open_fluid_algorithm_website"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fab_margin"
+                android:src="@drawable/website"
+                android:gravity="center"
+                android:onClick="openWebsite"/>
+
+            <ImageView
+                android:id="@+id/item_send_mail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fab_margin"
+                android:src="@drawable/baseline_email_24"
+                android:onClick="sendMail"
+                />
+
+
+            <ImageView
+                android:id="@+id/item_open_fluid_algorithm_facebook"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/fab_margin"
+                android:src="@drawable/facebook"
+                android:onClick="openFacebook"/>
+
+
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>
+
+
+

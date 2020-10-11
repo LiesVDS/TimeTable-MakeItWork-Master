@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_eventsview"
+        android:enabled="true"
+        android:icon="@drawable/eventsview"
+        android:title="@string/events"/>
+
+    <item
+        android:id="@+id/navigation_taskview"
+        android:enabled="true"
+        android:icon="@drawable/task"
+        android:title="@string/tasks"/>
+
+    <item
+        android:id="@+id/navigation_weekview"
+        android:enabled="true"
+        android:icon="@drawable/listview"
+        android:title="@string/week"/>
+
+    <item
+        android:id="@+id/navigation_notes"
+        android:enabled="true"
+        android:icon="@drawable/note"
+        android:title="@string/notes"/>
+    <item
+        android:id="@+id/navigation_contacts"
+        android:enabled="true"
+        android:icon="@drawable/contact"
+        android:title="@string/contacts"/>
+</menu>

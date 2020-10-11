@@ -101,6 +101,8 @@
     <string name="notification_title">आज के पाठ</string>
     <string name="do_not_have_lessons">आपके पास सबक नहीं है!</string>
     <string name="easy">आपके स्कूल का काम आसान हो गया</string>
+    <string name="how_to_use">How to use this app</string>
+    <string name="about_us">about us</string>
 
 
 </resources>
