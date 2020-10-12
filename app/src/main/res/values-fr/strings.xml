@@ -87,7 +87,7 @@
     <string name="email">Adresse email</string>
 
     <!-- Events Activity strings -->
-    <string name="events">Evénement</string>
+    <string name="events">Evénements</string>
     <string name="add_event">Ajouter événement</string>
     <string name="date_dialog">Date:</string>
     <string name="time_dialog">Heure:</string>

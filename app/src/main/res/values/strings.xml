@@ -92,6 +92,7 @@
     <string name="time_dialog">Time:</string>
 
     <!-- Settings Activity strings -->
+    <string name="settings">Settings</string>
     <string name="sevendays_setting">Enable 7 Days of the Week</string>
     <string name="school_website_setting">Change school website</string>
     <string name="school_website_setting_summary">Change URL of your school website</string>
