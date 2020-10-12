@@ -47,6 +47,7 @@ public class TasksActivity extends AppCompatActivity {
         listView = findViewById(R.id.tasklist);
         adapter = new TasksAdapter(TasksActivity.this, listView, R.layout.listview_tasks_adapter, db.getTask());
         listView.setAdapter(adapter);
+        listView.setEmptyView(findViewById(R.id.empty_view));
     }
 
     private void setupListViewMultiSelect() {

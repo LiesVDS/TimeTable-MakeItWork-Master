@@ -113,6 +113,15 @@
     <string name="emailMessage">I have downloaded the Fluid Algorithms Timetable app and ...</string>
     <string name="addressFluidAlgorithms">info@fluidalgorithms.com</string>
     <string name="emailSubject">About the Fluid Algorithm Timetable App</string>
+    <string name="empty_notes">Leave a  note to yourself! Just so you won\'t forget.</string>
+    <string name="empty_monday">no class on Monday</string>
+    <string name="empty_tuesday">no class on Tuesday</string>
+    <string name="empty_wednesday">no class on Wednesday</string>
+    <string name="empty_thursday">no class on Thursday</string>
+    <string name="empty_friday">no class on Friday</string>
+    <string name="empty_saturday">no class on Saturday</string>
+    <string name="empty_sunday">no class on Sunday</string>
+
 
 
 </resources>

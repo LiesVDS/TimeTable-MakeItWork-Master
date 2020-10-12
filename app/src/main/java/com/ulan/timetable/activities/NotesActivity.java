@@ -48,6 +48,7 @@ public class NotesActivity extends AppCompatActivity {
         listView = findViewById(R.id.notelist);
         adapter = new NotesAdapter(NotesActivity.this, listView, R.layout.listview_notes_adapter, db.getNote());
         listView.setAdapter(adapter);
+        listView.setEmptyView(findViewById(R.id.empty_view));
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {

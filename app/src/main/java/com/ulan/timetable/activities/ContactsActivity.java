@@ -48,6 +48,7 @@ public class ContactsActivity extends AppCompatActivity {
         listView = findViewById(R.id.contactlist);
         adapter = new ContactsAdapter(ContactsActivity.this, listView, R.layout.listview_contacts_adapter, db.getContact());
         listView.setAdapter(adapter);
+        listView.setEmptyView(findViewById(R.id.empty_view));
     }
 
     private void setupListViewMultiSelect() {

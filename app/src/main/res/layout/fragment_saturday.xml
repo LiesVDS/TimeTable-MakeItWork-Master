@@ -14,4 +14,26 @@
         android:divider="@null"
         />
 
+    <LinearLayout
+        android:id="@+id/empty_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/es_no_class_transparant" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/title_margin"
+            android:text="@string/empty_saturday"
+            android:textSize="16dp" />
+
+    </LinearLayout>
+
 </FrameLayout>

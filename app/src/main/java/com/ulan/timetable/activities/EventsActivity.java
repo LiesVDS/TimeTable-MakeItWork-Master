@@ -45,6 +45,7 @@ public class EventsActivity extends AppCompatActivity {
         listView = findViewById(R.id.eventslist);
         adapter = new EventsAdapter(EventsActivity.this, listView, R.layout.listview_events_adapter, db.getEvent());
         listView.setAdapter(adapter);
+        listView.setEmptyView(findViewById(R.id.empty_view));
     }
 
     private void setupListViewMultiSelect() {

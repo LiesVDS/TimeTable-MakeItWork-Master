@@ -35,6 +35,7 @@ public class FridayFragment extends Fragment {
         listView = view.findViewById(R.id.fridaylist);
         adapter = new WeekAdapter(getActivity(), listView, R.layout.listview_week_adapter, db.getWeek(KEY_FRIDAY_FRAGMENT));
         listView.setAdapter(adapter);
+        listView.setEmptyView(view.findViewById(R.id.empty_view));
     }
 
     private void setupListViewMultiSelect() {
