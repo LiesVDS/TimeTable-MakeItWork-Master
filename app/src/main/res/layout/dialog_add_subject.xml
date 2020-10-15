@@ -40,7 +40,7 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight=".3"
-            android:text="@string/contact_dialog"
+            android:text="@string/teacher_dialog"
             android:textAlignment="textStart"
             android:textColor="@android:color/black"
             android:textSize="14sp" />
