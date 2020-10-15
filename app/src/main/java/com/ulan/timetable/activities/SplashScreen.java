@@ -19,7 +19,7 @@ public class SplashScreen extends AppCompatActivity {
 
         startActivity(new Intent(this, OnBoardingActivity.class) );
 
-        /*
+
         if(isFirstTime) {
             SharedPreferences.Editor editor = onBoardingScreen.edit();
             editor.putBoolean("firstTime", false);
@@ -30,8 +30,6 @@ public class SplashScreen extends AppCompatActivity {
         } else {
             startActivity(new Intent(this, MainActivity.class) );
         }
-*/
-
 
 
     }
