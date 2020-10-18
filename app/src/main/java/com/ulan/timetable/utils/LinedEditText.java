@@ -25,7 +25,7 @@ public class LinedEditText extends EditText {
         mRect = new Rect();
         mPaint = new Paint();
         mPaint.setStyle(Paint.Style.FILL_AND_STROKE);
-        mPaint.setColor(R.color.colorPrimaryDark);
+        mPaint.setColor(R.color.colorPurple);
     }
 
     @Override
