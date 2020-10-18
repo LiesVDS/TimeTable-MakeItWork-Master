@@ -19,7 +19,7 @@
                 android:layout_height="wrap_content"
                 android:src="@drawable/fluid_algorithms_logo"
                 android:layout_gravity="center"
-                android:padding="16dp" />
+                android:layout_margin="24dp" />
 
             <TextView
                 android:id="@+id/about_us_header"
@@ -37,14 +37,6 @@
                 android:text="@string/about_fluid_algorithms_text"
                 style="@style/activity_text" />
 
-            <TextView
-                android:id="@+id/contact_us_header"
-                android:layout_margin="@dimen/title_margin"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/contact_fluid_algorithms"
-                style="@style/activity_title"/>
-
             <LinearLayout
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -53,29 +45,30 @@
                 >
                 <ImageView
                     android:id="@+id/item_open_fluid_algorithm_website"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
                     android:layout_margin="@dimen/fab_margin"
-                    android:src="@drawable/website"
+                    android:src="@drawable/web_round"
                     android:gravity="center"
-                    android:onClick="openWebsite"/>
+                    android:onClick="openWebsite"
+                    />
 
                 <ImageView
                     android:id="@+id/item_send_mail"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
                     android:layout_margin="@dimen/fab_margin"
-                    android:src="@drawable/baseline_email_24"
+                    android:src="@drawable/mail_round"
                     android:onClick="sendMail"
                     />
 
 
                 <ImageView
                     android:id="@+id/item_open_fluid_algorithm_facebook"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
                     android:layout_margin="@dimen/fab_margin"
-                    android:src="@drawable/facebook"
+                    android:src="@drawable/facebook_round"
                     android:onClick="openFacebook"/>
 
 
