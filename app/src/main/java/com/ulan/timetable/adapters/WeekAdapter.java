@@ -83,10 +83,11 @@ public class WeekAdapter extends ArrayAdapter<Week> {
         }
 
         holder.subject.setText(week.getSubject());
+        holder.subject.setTextColor(week.getColor());
         holder.contact.setText(week.getContact());
         holder.room.setText(week.getRoom());
         holder.time.setText(week.getFromTime() + " - " + week.getToTime());
-        holder.cardView.setCardBackgroundColor(week.getColor());
+        //holder.cardView.setCardBackgroundColor(week.getColor());
         holder.popup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

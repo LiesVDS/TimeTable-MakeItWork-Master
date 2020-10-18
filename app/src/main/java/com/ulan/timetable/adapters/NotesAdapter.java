@@ -71,7 +71,8 @@ public class NotesAdapter extends ArrayAdapter<Note> {
             holder = (ViewHolder) convertView.getTag();
         }
         holder.title.setText(note.getTitle());
-        holder.cardView.setCardBackgroundColor(note.getColor());
+        holder.title.setTextColor(note.getColor());
+        //holder.cardView.setCardBackgroundColor(note.getColor());
         holder.popup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

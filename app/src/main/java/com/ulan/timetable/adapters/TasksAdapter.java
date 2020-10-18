@@ -75,9 +75,10 @@ public class TasksAdapter extends ArrayAdapter<Task> {
             holder = (ViewHolder) convertView.getTag();
         }
         holder.subject.setText(task.getSubject());
+        holder.subject.setTextColor(task.getColor());
         holder.description.setText(task.getDescription());
         holder.date.setText(task.getDate());
-        holder.cardView.setCardBackgroundColor(task.getColor());
+        //holder.cardView.setCardBackgroundColor(task.getColor());
         holder.popup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
