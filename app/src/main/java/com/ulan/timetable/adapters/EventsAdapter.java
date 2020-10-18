@@ -80,11 +80,12 @@ public class EventsAdapter extends ArrayAdapter<Event> {
             holder = (ViewHolder) convertView.getTag();
         }
         holder.subject.setText(event.getSubject());
+        holder.subject.setTextColor(event.getColor());
         holder.contact.setText(event.getContact());
         holder.room.setText(event.getRoom());
         holder.date.setText(event.getDate());
         holder.time.setText(event.getTime());
-        holder.cardView.setCardBackgroundColor(event.getColor());
+        //holder.cardView.setCardBackgroundColor(event.getColor());
         holder.popup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

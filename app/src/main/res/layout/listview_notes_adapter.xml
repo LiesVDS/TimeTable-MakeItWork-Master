@@ -12,7 +12,8 @@
         android:layout_margin="10dp"
         android:orientation="horizontal"
         card_view:cardCornerRadius="5dp"
-        card_view:cardElevation="5dp">
+        card_view:cardElevation="5dp"
+        app:cardBackgroundColor="@color/colorGrey">
 
     <android.support.constraint.ConstraintLayout
         android:layout_width="match_parent"

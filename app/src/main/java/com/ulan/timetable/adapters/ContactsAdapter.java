@@ -78,10 +78,11 @@ public class ContactsAdapter extends ArrayAdapter<Contact> {
             holder = (ViewHolder) convertView.getTag();
         }
         holder.name.setText(contact.getName());
+        holder.name.setTextColor(contact.getColor());
         holder.post.setText(contact.getPost());
         holder.phonenumber.setText(contact.getPhonenumber());
         holder.email.setText(contact.getEmail());
-        holder.cardView.setCardBackgroundColor(contact.getColor());
+        //holder.cardView.setCardBackgroundColor(contact.getColor());
         holder.popup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
