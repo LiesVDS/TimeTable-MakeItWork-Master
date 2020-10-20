@@ -104,4 +104,48 @@
     <string name="how_to_use">How to use this app</string>
     <string name="about_us">about us</string>
 
+    <!-- needs translation -->
+    <string name="about_fluid_algorithms">About us</string>
+    <string name="about_fluid_algorithms_text">Fluid Algoithms is a company specialised in supporting education. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
+    <string name="contact_fluid_algorithms">Contact us</string>
+    <string name="website_word">website</string>
+    <string name="instagram_word">instagram</string>
+    <string name="facebook_word">facebook</string>
+    <string name="instagram">\@FluidAlgorithms</string>
+    <string name="emailMessage">I have downloaded the Fluid Algorithms Timetable app and ...</string>
+    <string name="addressFluidAlgorithms">info@fluidalgorithms.com</string>
+    <string name="emailSubject">About the Fluid Algorithm Timetable App</string>
+    <string name="empty_notes">Leave a  note to yourself! Just so you won\'t forget.</string>
+    <string name="empty_monday">no class on Monday</string>
+    <string name="empty_tuesday">no class on Tuesday</string>
+    <string name="empty_wednesday">no class on Wednesday</string>
+    <string name="empty_thursday">no class on Thursday</string>
+    <string name="empty_friday">no class on Friday</string>
+    <string name="empty_saturday">no class on Saturday</string>
+    <string name="empty_sunday">no class on Sunday</string>
+
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="settings">Settings</string>
+    <string name="first_slide_title">Create your time table</string>
+    <string name="second_slide_title">Never forget a task</string>
+    <string name="third_slide_title">Keep track of all your events</string>
+    <string name="fourth_slide_title">Keep your school contacts together</string>
+    <string name="fifth_slide_title">Write notes to yourself</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can add in your courses for each day. We will notify you every morning with your school schedule.</string>
+    <string name="second_slide_desc">We know class is not everything. With this app you can keep track of your assignments. They will be displayed all together in the \'tasks\' section.</string>
+    <string name="third_slide_desc">School life can get really busy and you don\'t want to miss out on any events. You can add and track your event in the \'events\' section. </string>
+    <string name="fourth_slide_desc">Always looking for the e-mail or phone number of teacher or student? You can now keep them all together, by adding them to the \'contacts\' section.  </string>
+    <string name="fifth_slide_desc">There is probably more school stuff you don\'t want to forget. Leave a note to yourself in the \'notes\' section.</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+    <string name="teacher_dialog">Teacher:</string>
+
 </resources>
