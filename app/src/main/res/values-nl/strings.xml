@@ -33,7 +33,7 @@
     <string name="school_website_snackbar">Voeg de link naar je school website toe onder instellingen.</string>
 
     <string name="add_subject">Voeg een onderwerp toe</string>
-    <string name="edit_subject">Bewerk een onderzerp</string>
+    <string name="edit_subject">Bewerk een onderwerp</string>
     <string name="contact">Contacten</string>
     <string name="room">Lokaal</string>
     <string name="time">Tijd</string>
@@ -104,56 +104,56 @@
 
 
     <!-- needs translation -->
-    <string name="how_to_use">How to use this app</string>
-    <string name="about_us">About us</string>
-    <string name="about_fluid_algorithms">About us</string>
-    <string name="about_fluid_algorithms_text">Fluid Algoithms is a company specialised in supporting education. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
-    <string name="contact_fluid_algorithms">Contact us</string>
+    <string name="how_to_use">Hoe deze app gebruiken</string>
+    <string name="about_us">Over Fluid Algorithms</string>
+    <string name="about_fluid_algorithms">Over Fluid Algorithms</string>
+    <string name="about_fluid_algorithms_text">Fluid Algoithms is een onderneming gespecialiseerd in onderwijs ondersteuning. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
+    <string name="contact_fluid_algorithms">Contacteer ons</string>
     <string name="website_word">website</string>
     <string name="instagram_word">instagram</string>
     <string name="facebook_word">facebook</string>
     <string name="instagram">\@FluidAlgorithms</string>
-    <string name="emailMessage">I have downloaded the Fluid Algorithms Timetable app and ...</string>
+    <string name="emailMessage">I heb de Fluid Algorithm Timetable app gedownload</string>
     <string name="addressFluidAlgorithms">info@fluidalgorithms.com</string>
-    <string name="emailSubject">About the Fluid Algorithm Timetable App</string>
-    <string name="empty_notes">Leave a  note to yourself! Just so you won\'t forget.</string>
-    <string name="empty_monday">no class on Monday</string>
-    <string name="empty_tuesday">no class on Tuesday</string>
-    <string name="empty_wednesday">no class on Wednesday</string>
-    <string name="empty_thursday">no class on Thursday</string>
-    <string name="empty_friday">no class on Friday</string>
-    <string name="empty_saturday">no class on Saturday</string>
-    <string name="empty_sunday">no class on Sunday</string>
+    <string name="emailSubject">Over de Fluid Algorithm Timetable App</string>
+    <string name="empty_notes">Laat een notitie achter voor jezelf! Zodat je het zeker niet vergeet.</string>
+    <string name="empty_monday">geen les op maandag</string>
+    <string name="empty_tuesday">geen les op dinsdag</string>
+    <string name="empty_wednesday">geen les op woensdag</string>
+    <string name="empty_thursday">geen les op donderdag</string>
+    <string name="empty_friday">geen les op vrijdag</string>
+    <string name="empty_saturday">geen les op zaterdag</string>
+    <string name="empty_sunday">geen les op zondag</string>
 
 
     <!-- Strings for On Boarding Screen -->
 
     <!--Titles-->
-    <string name="settings">Settings</string>
-    <string name="first_slide_title">Create your time table</string>
-    <string name="second_slide_title">Never forget a task</string>
-    <string name="third_slide_title">Keep track of all your events</string>
-    <string name="fourth_slide_title">Keep your school contacts together</string>
-    <string name="fifth_slide_title">Write notes to yourself</string>
+    <string name="settings">Instellingen</string>
+    <string name="first_slide_title">Maak je eigen lessenrooster</string>
+    <string name="second_slide_title">Vergeet geen enkele taak meer</string>
+    <string name="third_slide_title">Houd al je evenementen goed bij</string>
+    <string name="fourth_slide_title">Houd je schoolcontacten samen</string>
+    <string name="fifth_slide_title">Laat een notitie achter voor jezelf</string>
 
     <!--Descriptions-->
-    <string name="first_slide_desc">You can add in your courses for each day. We will notify you every morning with your school schedule.</string>
-    <string name="second_slide_desc">We know class is not everything. With this app you can keep track of your assignments. They will be displayed all together in the \'tasks\' section.</string>
-    <string name="third_slide_desc">School life can get really busy and you don\'t want to miss out on any events. You can add and track your event in the \'events\' section. </string>
-    <string name="fourth_slide_desc">Always looking for the e-mail or phone number of teacher or student? You can now keep them all together, by adding them to the \'contacts\' section.  </string>
-    <string name="fifth_slide_desc">There is probably more school stuff you don\'t want to forget. Leave a note to yourself in the \'notes\' section.</string>
+    <string name="first_slide_desc">Je kan lessen invoeren voor elke dag. Wij laten je elke ochtend weten wat er die dag op het programma staat!</string>
+    <string name="second_slide_desc">We weten dat studeren meer is dan enkel op de les geraken. Met deze app kan je ook je taken opvolgen. Houd al je taken samen in de \'taken\' sectie.</string>
+    <string name="third_slide_desc">Het stuydentenleven kan soms erg druk wijn en je wil zeker niets missen! You can evenementen toevoegen en opvolgen in de \'evenementen\' sectie.</string>
+    <string name="fourth_slide_desc">Ben je ook altijd op zoek naar de contactgegevens van die leerkracht of mede-student? Je kan ze nu allemaal samen op een plaats bewaren in de \'contacten\' sectie.</string>
+    <string name="fifth_slide_desc">En dan zijn er waarschijnlijk nog zoveel andere schoolzaken die je niet wil vergeten. Laat een notitie achter voor jezelf in de \'notities\' sectie.</string>
 
     <!--Buttons-->
-    <string name="skip_btn">Skip</string>
-    <string name="next_btn">Next</string>
-    <string name="let_get_started">Lets Get Started</string>
-    <string name="teacher_dialog">Teacher:</string>
-    <string name="howto_addsubject">You can add a school subject in your timetable by clicking on the round /\'add/\' button in the right bottom corner.</string>
-    <string name="howto_editsubject">You can edit any subject by clicking on the drop down arrow next to the subject\'s name</string>
-    <string name="other_activities">Add events, contacts and tasks</string>
-    <string name="howto_other_activities">In the same vain you can add events, contacts and tasks. You can access these activities through the side menu. This opens by clicking on the 3 lines menu icon at the top left corner.</string>
-    <string name="howto_7days">Display 5 or 7 days week</string>
-    <string name="howto_7days_instruction">You can display your timetable in a 5 days a week format, or a 7 days a week format. You can change this setting by clicking on the 3 dots in the right top corner.</string>
+    <string name="skip_btn">Overslaan</string>
+    <string name="next_btn">Volgende</string>
+    <string name="let_get_started">Starten maar!</string>
+    <string name="teacher_dialog">Prof:</string>
+    <string name="howto_addsubject">Je kan een vak toevoegen in je lessenrooster door op de ronde groene \'toevoegen\' knop te klikkenm rechts onderaan in de app.</string>
+    <string name="howto_editsubject">Je kan elk vak nog wijzigen achteraf door op het pijltje naar beneden te klikken, naast de naam van het vak.</string>
+    <string name="other_activities">Evenementen, contacten en taken toevoegen.</string>
+    <string name="howto_other_activities">Op dezelfde wijze kan je evenementen, contacten en taken toevoegen. Je kan naar deze activiteiten gaan door op de 3 witte lijntjes te klikken links bovenaan.</string>
+    <string name="howto_7days">Laat 5 of 7 dagen per week zien</string>
+    <string name="howto_7days_instruction">Je kan je lessenrooster laten zien voor 5 dagen in de week of 7. Je kan deze instelling wijzigen door op de 3 bolletjes te klikken in de rechter bovenhoek.</string>
 
 
 </resources>

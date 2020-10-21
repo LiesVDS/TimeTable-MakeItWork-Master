@@ -105,56 +105,56 @@
 
     <!-- needs translation -->
 
-    <string name="how_to_use">How to use this app</string>
+    <string name="how_to_use">Comment utiliser cette appli</string>
     <string name="about_us">Fluid Algorithms</string>
-    <string name="about_fluid_algorithms">About us</string>
-    <string name="about_fluid_algorithms_text">Fluid Algoithms is a company specialised in supporting education. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
-    <string name="contact_fluid_algorithms">Contact us</string>
+    <string name="about_fluid_algorithms">À propos de nous</string>
+    <string name="about_fluid_algorithms_text">Fluid Algoithms est une société spécialisée dans le soutien à l\'éducation. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
+    <string name="contact_fluid_algorithms">Nous contacter</string>
     <string name="website_word">website</string>
     <string name="instagram_word">instagram</string>
     <string name="facebook_word">facebook</string>
     <string name="instagram">\@FluidAlgorithms</string>
-    <string name="emailMessage">I have downloaded the Fluid Algorithms Timetable app and ...</string>
+    <string name="emailMessage">J\'ai téléchargé l\'application Timetable de Fluid Algorithm et ...</string>
     <string name="addressFluidAlgorithms">info@fluidalgorithms.com</string>
-    <string name="emailSubject">About the Fluid Algorithm Timetable App</string>
-    <string name="empty_notes">Leave a  note to yourself! Just so you won\'t forget.</string>
-    <string name="empty_monday">no class on Monday</string>
-    <string name="empty_tuesday">no class on Tuesday</string>
-    <string name="empty_wednesday">no class on Wednesday</string>
-    <string name="empty_thursday">no class on Thursday</string>
-    <string name="empty_friday">no class on Friday</string>
-    <string name="empty_saturday">no class on Saturday</string>
-    <string name="empty_sunday">no class on Sunday</string>
+    <string name="emailSubject">Par rapport à l\'application Timetable de Fluid Algorithm </string>
+    <string name="empty_notes">Laissez-vous une note! Juste pour ne pas oublier.</string>
+    <string name="empty_monday">pas de cours le lundi</string>
+    <string name="empty_tuesday">pas de cours le mardi</string>
+    <string name="empty_wednesday">pas de cours le mercredi</string>
+    <string name="empty_thursday">pas de cours le jeudi</string>
+    <string name="empty_friday">pas de cours le vendredi</string>
+    <string name="empty_saturday">pas de cours le samedi</string>
+    <string name="empty_sunday">pas de cours le dimanche</string>
 
 
     <!-- Strings for On Boarding Screen -->
 
     <!--Titles-->
-    <string name="settings">Settings</string>
-    <string name="first_slide_title">Create your time table</string>
-    <string name="second_slide_title">Never forget a task</string>
-    <string name="third_slide_title">Keep track of all your events</string>
-    <string name="fourth_slide_title">Keep your school contacts together</string>
-    <string name="fifth_slide_title">Write notes to yourself</string>
+    <string name="settings">Paramètres</string>
+    <string name="first_slide_title">Créez votre calendrier</string>
+    <string name="second_slide_title">N\'oubliez jamais une tâche</string>
+    <string name="third_slide_title">Gardez une trace de tous vos événements</string>
+    <string name="fourth_slide_title">Gardez vos contacts scolaires ensemble</string>
+    <string name="fifth_slide_title">Écrivez des notes pour vous-même</string>
 
     <!--Descriptions-->
-    <string name="first_slide_desc">You can add in your courses for each day. We will notify you every morning with your school schedule.</string>
-    <string name="second_slide_desc">We know class is not everything. With this app you can keep track of your assignments. They will be displayed all together in the \'tasks\' section.</string>
-    <string name="third_slide_desc">School life can get really busy and you don\'t want to miss out on any events. You can add and track your event in the \'events\' section. </string>
-    <string name="fourth_slide_desc">Always looking for the e-mail or phone number of teacher or student? You can now keep them all together, by adding them to the \'contacts\' section.  </string>
-    <string name="fifth_slide_desc">There is probably more school stuff you don\'t want to forget. Leave a note to yourself in the \'notes\' section.</string>
+    <string name="first_slide_desc">Vous pouvez ajouter vos cours pour chaque jour. Nous vous informerons chaque matin de votre horaire scolaire.</string>
+    <string name="second_slide_desc">Nous savons que justement aller l\'école n\'est pas tout. Avec cette application, vous pouvez garder une trace de vos devoirs. Ils seront affichés tous ensemble dans la section \'tâches\'.</string>
+    <string name="third_slide_desc">La vie scolaire peut être très occupée et vous ne voulez manquer aucun événement. Vous pouvez ajouter et suivre vos événements dans la section \'événements\'. </string>
+    <string name="fourth_slide_desc">Vous êtes fatigué de toujours chercher l\'e-mail ou le numéro de téléphone du prof ou de l\'étudiant? Vous pouvez maintenant les garder tous ensemble, en les ajoutant à la section \'contacts\'. </string>
+    <string name="fifth_slide_desc">Il y a probablement plus de trucs scolaires que vous ne voulez pas oublier. Laissez-vous une note dans la section \'notes\'.</string>
 
     <!--Buttons-->
-    <string name="skip_btn">Skip</string>
-    <string name="next_btn">Next</string>
-    <string name="let_get_started">Lets Get Started</string>
-    <string name="teacher_dialog">Teacher:</string>
-    <string name="howto_addsubject">You can add a school subject in your timetable by clicking on the round /\'add/\' button in the right bottom corner.</string>
-    <string name="howto_editsubject">You can edit any subject by clicking on the drop down arrow next to the subject\'s name</string>
-    <string name="other_activities">Add events, contacts and tasks</string>
-    <string name="howto_other_activities">In the same vain you can add events, contacts and tasks. You can access these activities through the side menu. This opens by clicking on the 3 lines menu icon at the top left corner.</string>
-    <string name="howto_7days">Display 5 or 7 days week</string>
-    <string name="howto_7days_instruction">You can display your timetable in a 5 days a week format, or a 7 days a week format. You can change this setting by clicking on the 3 dots in the right top corner.</string>
+    <string name="skip_btn">Sauter</string>
+    <string name="next_btn">Suivant</string>
+    <string name="let_get_started">Commençons!</string>
+    <string name="teacher_dialog">Prof:</string>
+    <string name="howto_addsubject">Vous pouvez ajouter une matière scolaire dans votre calendrier en cliquant sur le bouton rond \'ajouter\' dans le coin inférieur droit.</string>
+    <string name="howto_editsubject">Vous pouvez modifier n\'importe quel sujet en cliquant sur la flèche déroulante à côté du nom du sujet</string>
+    <string name="other_activities">Ajouter des événements, des contacts et des tâches</string>
+    <string name="howto_other_activities">Dans le même vain, vous pouvez ajouter des événements, des contacts et des tâches. Vous pouvez accéder à ces activités via le menu latéral. Cela s\'ouvre en cliquant sur l\'icône de menu à 3 lignes dans le coin supérieur gauche.</string>
+    <string name="howto_7days">Afficher 5 ou 7 jours par semaine</string>
+    <string name="howto_7days_instruction">Vous pouvez afficher votre calendrier dans un format 5 jours par semaine ou 7 jours par semaine. Vous pouvez modifier ce paramètre en cliquant sur les 3 points dans le coin supérieur droit.</string>
 
 
 </resources>
