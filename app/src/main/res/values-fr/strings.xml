@@ -101,10 +101,12 @@
     <string name="notification_title">Matières d\'aujourd\'hui</string>
     <string name="do_not_have_lessons">Vous n\'avez pas de cours aujourd\'hui!</string>
     <string name="easy">Votre travail scolaire simplifié!</string>
-    <string name="how_to_use">How to use this app</string>
-    <string name="about_us">Fluid Algorithms</string>
+
 
     <!-- needs translation -->
+
+    <string name="how_to_use">How to use this app</string>
+    <string name="about_us">Fluid Algorithms</string>
     <string name="about_fluid_algorithms">About us</string>
     <string name="about_fluid_algorithms_text">Fluid Algoithms is a company specialised in supporting education. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
     <string name="contact_fluid_algorithms">Contact us</string>
@@ -147,6 +149,12 @@
     <string name="next_btn">Next</string>
     <string name="let_get_started">Lets Get Started</string>
     <string name="teacher_dialog">Teacher:</string>
+    <string name="howto_addsubject">You can add a school subject in your timetable by clicking on the round /\'add/\' button in the right bottom corner.</string>
+    <string name="howto_editsubject">You can edit any subject by clicking on the drop down arrow next to the subject\'s name</string>
+    <string name="other_activities">Add events, contacts and tasks</string>
+    <string name="howto_other_activities">In the same vain you can add events, contacts and tasks. You can access these activities through the side menu. This opens by clicking on the 3 lines menu icon at the top left corner.</string>
+    <string name="howto_7days">Display 5 or 7 days week</string>
+    <string name="howto_7days_instruction">You can display your timetable in a 5 days a week format, or a 7 days a week format. You can change this setting by clicking on the 3 dots in the right top corner.</string>
 
 
 </resources>
