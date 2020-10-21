@@ -102,7 +102,6 @@
     <string name="do_not_have_lessons">Du hast keinen Unterricht!</string>
     <string name="easy">Ihre Schularbeiten leicht gemacht</string>
     <string name="how_to_use">How to use this app</string>
-    <string name="about_us">about us</string>
 
     <!-- needs translation -->
     <string name="about_fluid_algorithms">About us</string>
@@ -123,6 +122,7 @@
     <string name="empty_friday">no class on Friday</string>
     <string name="empty_saturday">no class on Saturday</string>
     <string name="empty_sunday">no class on Sunday</string>
+    <string name="about_us">Sobre nosotros</string>
 
 
     <!-- Strings for On Boarding Screen -->

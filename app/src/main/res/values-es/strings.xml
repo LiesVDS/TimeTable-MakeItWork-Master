@@ -33,7 +33,7 @@
     <string name="school_website_snackbar">Porfavor, entra el URL del sitio web de tu escuela en configuraciones.</string>
 
     <string name="add_subject">Añadir un asunto</string>
-    <string name="edit_subject">Editar asunte</string>
+    <string name="edit_subject">Editar asunto</string>
     <string name="contact">Contactos</string>
     <string name="room">Local</string>
     <string name="time">Hora</string>
@@ -100,58 +100,58 @@
     <string name="notification_title">Clases de hoy</string>
     <string name="do_not_have_lessons">No tienes clases hoy!</string>
     <string name="easy">La escuela hecho fácil</string>
-    <string name="how_to_use">How to use this app</string>
-    <string name="about_us">about us</string>
+    <string name="how_to_use">Cómo usar esta app</string>
+    <string name="about_us">Sobre nosotros</string>
 
     <!-- needs translation -->
-    <string name="about_fluid_algorithms">About us</string>
-    <string name="about_fluid_algorithms_text">Fluid Algoithms is a company specialised in supporting education. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
-    <string name="contact_fluid_algorithms">Contact us</string>
+    <string name="about_fluid_algorithms">Sobre nosotros</string>
+    <string name="about_fluid_algorithms_text">Fluid Algorithms es una empresa especializada en el apoyo a la educación.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
+    <string name="contact_fluid_algorithms">Contacta con nosotros</string>
     <string name="website_word">website</string>
     <string name="instagram_word">instagram</string>
     <string name="facebook_word">facebook</string>
     <string name="instagram">\@FluidAlgorithms</string>
-    <string name="emailMessage">I have downloaded the Fluid Algorithms Timetable app and ...</string>
+    <string name="emailMessage">Descargé la applicación Timetable de Fluid Algorithms y ...</string>
     <string name="addressFluidAlgorithms">info@fluidalgorithms.com</string>
-    <string name="emailSubject">About the Fluid Algorithm Timetable App</string>
-    <string name="empty_notes">Leave a  note to yourself! Just so you won\'t forget.</string>
-    <string name="empty_monday">no class on Monday</string>
-    <string name="empty_tuesday">no class on Tuesday</string>
-    <string name="empty_wednesday">no class on Wednesday</string>
-    <string name="empty_thursday">no class on Thursday</string>
-    <string name="empty_friday">no class on Friday</string>
-    <string name="empty_saturday">no class on Saturday</string>
-    <string name="empty_sunday">no class on Sunday</string>
+    <string name="emailSubject">Sobre la applicación de Fluid Algorithm Timetable</string>
+    <string name="empty_notes">¡Déjate una nota! Solo para que no lo olvides.</string>
+    <string name="empty_monday">Lunes no hay clases</string>
+    <string name="empty_tuesday">Martes no hay clases </string>
+    <string name="empty_wednesday">Miércoles no hay clases</string>
+    <string name="empty_thursday">Jueves no hay clases</string>
+    <string name="empty_friday">Viernes no hay clases</string>
+    <string name="empty_saturday">Sábado no hay clases</string>
+    <string name="empty_sunday">Domingo no hay clases</string>
 
 
     <!-- Strings for On Boarding Screen -->
 
     <!--Titles-->
-    <string name="settings">Settings</string>
-    <string name="first_slide_title">Create your time table</string>
-    <string name="second_slide_title">Never forget a task</string>
-    <string name="third_slide_title">Keep track of all your events</string>
-    <string name="fourth_slide_title">Keep your school contacts together</string>
-    <string name="fifth_slide_title">Write notes to yourself</string>
+    <string name="settings">Configuraciones</string>
+    <string name="first_slide_title">Cread su propio horario</string>
+    <string name="second_slide_title">Nunca olvide una tarea! </string>
+    <string name="third_slide_title">No pierdas ningún evento de vista</string>
+    <string name="fourth_slide_title">Mantenga sus contactos de escula organizados</string>
+    <string name="fifth_slide_title">Escribe notas para ti</string>
 
     <!--Descriptions-->
-    <string name="first_slide_desc">You can add in your courses for each day. We will notify you every morning with your school schedule.</string>
-    <string name="second_slide_desc">We know class is not everything. With this app you can keep track of your assignments. They will be displayed all together in the \'tasks\' section.</string>
-    <string name="third_slide_desc">School life can get really busy and you don\'t want to miss out on any events. You can add and track your event in the \'events\' section. </string>
-    <string name="fourth_slide_desc">Always looking for the e-mail or phone number of teacher or student? You can now keep them all together, by adding them to the \'contacts\' section.  </string>
-    <string name="fifth_slide_desc">There is probably more school stuff you don\'t want to forget. Leave a note to yourself in the \'notes\' section.</string>
+    <string name="first_slide_desc">Se puede agregar sus cursos para cada día. Le notificaremos todas las mañanas con su horario escolar.</string>
+    <string name="second_slide_desc">Sabemos que hay mas que hacer que solo ir a clases. Con esta aplicación puede realizar un seguimiento de sus asignaciones. Se mostrarán todos juntos en la sección \'tareas\'.</string>
+    <string name="third_slide_desc">La vida escolar puede ser muy ajetreada y no querrás perderte ningún evento. Puede agregar y realizar un seguimiento de sus eventos en la sección \'eventos\'.</string>
+    <string name="fourth_slide_desc">¿Siempre buscando el correo electrónico o el número de teléfono del profesor o alumno? Ahora puede mantenerlos todos juntos, agregándolos a la sección \'contactos\'. </string>
+    <string name="fifth_slide_desc">Probablemente haya más cosas de la escuela que no querrás olvidar. Déjese una nota en la sección \'notas\'.</string>
 
     <!--Buttons-->
-    <string name="skip_btn">Skip</string>
-    <string name="next_btn">Next</string>
-    <string name="let_get_started">Lets Get Started</string>
-    <string name="teacher_dialog">Teacher:</string>
-    <string name="howto_addsubject">You can add a school subject in your timetable by clicking on the round /\'add/\' button in the right bottom corner.</string>
-    <string name="howto_editsubject">You can edit any subject by clicking on the drop down arrow next to the subject\'s name</string>
-    <string name="other_activities">Add events, contacts and tasks</string>
-    <string name="howto_other_activities">In the same vain you can add events, contacts and tasks. You can access these activities through the side menu. This opens by clicking on the 3 lines menu icon at the top left corner.</string>
-    <string name="howto_7days">Display 5 or 7 days week</string>
-    <string name="howto_7days_instruction">You can display your timetable in a 5 days a week format, or a 7 days a week format. You can change this setting by clicking on the 3 dots in the right top corner.</string>
+    <string name="skip_btn">Omitir</string>
+    <string name="next_btn">Siguiente</string>
+    <string name="let_get_started">Hagamoslo</string>
+    <string name="teacher_dialog">Profesor:</string>
+    <string name="howto_addsubject">Puede agregar una materia escolar en su horario haciendo clic en el botón redondo \'agregar\' en la esquina inferior derecha.</string>
+    <string name="howto_editsubject">Puede editar cualquier materia haciendo clic en la flecha desplegable junto al nombre del tema</string>
+    <string name="other_activities">Agregar eventos, contactos y tareas</string>
+    <string name="howto_other_activities">Del mismo modo puede agregar eventos, contactos y tareas. Puede acceder estas actividades a través del menú lateral. Esto se abre haciendo clic en el ícono de menú de 3 líneas en la esquina superior izquierda.</string>
+    <string name="howto_7days">Mostrar 5 o 7 días a la semana</string>
+    <string name="howto_7days_instruction">Puede mostrar su horario en formato de 5 días a la semana o 7 días a la semana. Puede cambiar esta configuración haciendo clic en los 3 puntos en la esquina superior derecha.</string>
 
 
 </resources>

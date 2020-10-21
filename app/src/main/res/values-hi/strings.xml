@@ -101,10 +101,13 @@
     <string name="notification_title">आज के पाठ</string>
     <string name="do_not_have_lessons">आपके पास सबक नहीं है!</string>
     <string name="easy">आपके स्कूल का काम आसान हो गया</string>
+
+
+    <!-- needs translation -->
+
     <string name="how_to_use">How to use this app</string>
     <string name="about_us">about us</string>
 
-    <!-- needs translation -->
     <string name="about_fluid_algorithms">About us</string>
     <string name="about_fluid_algorithms_text">Fluid Algoithms is a company specialised in supporting education. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
     <string name="contact_fluid_algorithms">Contact us</string>
