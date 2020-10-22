@@ -103,64 +103,60 @@
 <string name="easy">Ang iyong gawain sa paaralan ay ginawang madali</string>
 
 
-
     <!-- needs translation -->
 
+    <string name="how_to_use">Paano gamitin ang app</string>
+    <string name="about_us">Tungkol sa amin</string>
 
 
-    <string name="how_to_use">How to use this app</string>
-    <string name="about_us">about us</string>
-
-
-    <string name="about_fluid_algorithms">About us</string>
-    <string name="about_fluid_algorithms_text">Fluid Algoithms is a company specialised in supporting education. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
-    <string name="contact_fluid_algorithms">Contact us</string>
+    <string name="about_fluid_algorithms">Tungkol sa amin</string>
+    <string name="about_fluid_algorithms_text">Fluid Algoithms ay isang kumpanya na nagdadalubhasa sa pagsuporta sa edukasyon. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec augue maximus, elementum erat vel, vestibulum purus. </string>
+    <string name="contact_fluid_algorithms">Makipagugnayan sa amin</string>
     <string name="website_word">website</string>
     <string name="instagram_word">instagram</string>
     <string name="facebook_word">facebook</string>
     <string name="instagram">\@FluidAlgorithms</string>
-    <string name="emailMessage">I have downloaded the Fluid Algorithms Timetable app and ...</string>
+    <string name="emailMessage"> Na-download ko ang Fluid Algorithms Timetable app at ...</string>
     <string name="addressFluidAlgorithms">info@fluidalgorithms.com</string>
-    <string name="emailSubject">About the Fluid Algorithm Timetable App</string>
-    <string name="empty_notes">Leave a  note to yourself! Just so you won\'t forget.</string>
-    <string name="empty_monday">no class on Monday</string>
-    <string name="empty_tuesday">no class on Tuesday</string>
-    <string name="empty_wednesday">no class on Wednesday</string>
-    <string name="empty_thursday">no class on Thursday</string>
-    <string name="empty_friday">no class on Friday</string>
-    <string name="empty_saturday">no class on Saturday</string>
-    <string name="empty_sunday">no class on Sunday</string>
-
+    <string name="emailSubject">Tungkol sa Fluid Algorithm Timetable App</string>
+    <string name="empty_notes">Mag-iwan ng tala sa iyong sarili! Para hindi mo makakalimutan</string>
+    <string name="empty_monday">Walang klase sa Lunes</string>
+    <string name="empty_tuesday">Walang klase sa Martes</string>
+    <string name="empty_wednesday">Walang klase sa Miyerkules</string>
+    <string name="empty_thursday">Walang klase saHuwebes</string>
+    <string name="empty_friday">Walang klase sa Biyernes</string>
+    <string name="empty_saturday">Walang klase sa Sabado</string>
+    <string name="empty_sunday">Walang klase saLinggo</string>
 
 
     <!-- Strings for On Boarding Screen -->
 
     <!--Titles-->
     <string name="settings">Settings</string>
-    <string name="first_slide_title">Create your time table</string>
-    <string name="second_slide_title">Never forget a task</string>
-    <string name="third_slide_title">Keep track of all your events</string>
-    <string name="fourth_slide_title">Keep your school contacts together</string>
-    <string name="fifth_slide_title">Write notes to yourself</string>
+    <string name="first_slide_title">Gummawa ng time table</string>
+    <string name="second_slide_title">Huwag kalimutan ang isang gawain</string>
+    <string name="third_slide_title">Subaybayan ang lahat ng iyong mga kaganapan</string>
+    <string name="fourth_slide_title">Panatilihing magkasama ang iyong mga contact sa paaralan</string>
+    <string name="fifth_slide_title">Sumulat ng mga tala sa iyong sarili</string>
 
     <!--Descriptions-->
-    <string name="first_slide_desc">You can add in your courses for each day. We will notify you every morning with your school schedule.</string>
-    <string name="second_slide_desc">We know class is not everything. With this app you can keep track of your assignments. They will be displayed all together in the \'tasks\' section.</string>
-    <string name="third_slide_desc">School life can get really busy and you don\'t want to miss out on any events. You can add and track your event in the \'events\' section. </string>
-    <string name="fourth_slide_desc">Always looking for the e-mail or phone number of teacher or student? You can now keep them all together, by adding them to the \'contacts\' section.  </string>
-    <string name="fifth_slide_desc">There is probably more school stuff you don\'t want to forget. Leave a note to yourself in the \'notes\' section.</string>
+    <string name="first_slide_desc">Maaari kang magdagdag sa iyong mga kurso para sa bawat araw. Aabisuhan ka namin tuwing umaga sa iyong iskedyul ng paaralan.</string>
+    <string name="second_slide_desc">Alam naming hindi lahat ang klase. Gamit ang app na ito maaari mong subaybayan ang iyong mga takdang-aralin. Ipapakita silang lahat nang magkasama sa seksyong \'mga gawain\'.</string>
+    <string name="third_slide_desc">Ang buhay sa paaralan ay maaaring maging abala at hindi mo nais na makaligtaan ang anumang mga kaganapan. Maaari mong idagdag at subaybayan ang iyong kaganapan sa seksyong \'mga kaganapan\'. </string>
+    <string name="fourth_slide_desc">Palaging naghahanap ng e-mail o numero ng telepono ng guro o mag-aaral? Mapapanatili mo silang lahat nang magkasama, sa pamamagitan ng pagdaragdag sa mga ito sa seksyong \'mga contact\'.</string>
+    <string name="fifth_slide_desc">Marahil ay mas maraming bagay sa paaralan ang ayaw mong kalimutan. Mag-iwan ng tala sa iyong sarili sa seksyong \'tala\'.</string>
 
     <!--Buttons-->
-    <string name="skip_btn">Skip</string>
-    <string name="next_btn">Next</string>
-    <string name="let_get_started">Lets Get Started</string>
-    <string name="teacher_dialog">Teacher:</string>
-    <string name="howto_addsubject">You can add a school subject in your timetable by clicking on the round /\'add/\' button in the right bottom corner.</string>
-    <string name="howto_editsubject">You can edit any subject by clicking on the drop down arrow next to the subject\'s name</string>
-    <string name="other_activities">Add events, contacts and tasks</string>
-    <string name="howto_other_activities">In the same vain you can add events, contacts and tasks. You can access these activities through the side menu. This opens by clicking on the 3 lines menu icon at the top left corner.</string>
-    <string name="howto_7days">Display 5 or 7 days week</string>
-    <string name="howto_7days_instruction">You can display your timetable in a 5 days a week format, or a 7 days a week format. You can change this setting by clicking on the 3 dots in the right top corner.</string>
+    <string name="skip_btn">Laktawan</string>
+    <string name="next_btn">Susunod</string>
+    <string name="let_get_started">Magsimula na tayo</string>
+    <string name="teacher_dialog">Guro:</string>
+    <string name="howto_addsubject">Maaari kang magdagdag ng isang paksa sa paaralan sa iyong iskedyul sa pamamagitan ng pag-click sa pindutan ng pag-ikot, idagdag sa kanang sulok sa ibaba.</string>
+    <string name="howto_editsubject">maaari mong i-edit ang anumang paksa sa pamamagitan ng pag-click sa drop down arrow sa tabi ng pangalan ng paksa</string>
+    <string name="other_activities">Magdagdag ng mga kaganapan, contact at gawain</string>
+    <string name="howto_other_activities">Sa parehong walang kabuluhan maaari kang magdagdag ng mga kaganapan, contact at gawain. Maaari mong ma-access ang mga aktibidad na ito sa pamamagitan ng menu sa gilid. Bubukas ito sa pamamagitan ng pag-click sa icon ng menu ng 3 linya sa kaliwang sulok sa itaas.</string>
+    <string name="howto_7days">Ipakita ang 5 o 7 araw na linggo</string>
+    <string name="howto_7days_instruction">Maaari mong ipakita ang iyong iskedyul sa isang 5 araw sa isang linggong format, o isang 7 araw sa isang linggong format. Maaari mong baguhin ang setting na ito sa pamamagitan ng pag-click sa 3 mga tuldok sa kanang tuktok na sulok.</string>
 
 
 </resources>
